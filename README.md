@@ -7,8 +7,8 @@ Heavily inspired by the work of Javad N. Nikravesh, **Planar Multibody Dynamics*
 - Essential functions for dynamics using body coordinate formulation (see Functions folder)
 - General purpose scripts to simulate multibody systems using body coordinate formulation (see BC_Formulation folder)\
 - Two example mechanisms from the text by Nikravesh.
-<img src='G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Mechanisms\DoubleArmSuspension(DAS)\DAS.webp' width='400'>
-<img src='G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Mechanisms\McPhersonStrut(MPS)\MPS.webp' width='400'>
+<img src='G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Mechanisms\DoubleArmSuspension(DAS)\DAS.png' width='400'>
+<img src='G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Mechanisms\McPhersonStrut(MPS)\MPS.png' width='400'>
 ## Requirements
 - MATLAB R2018b or later
 - Symbolic Math Toolbox (optional, for symbolic derivations)
