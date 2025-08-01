@@ -1,6 +1,8 @@
 %% Meta
 % Author: Justin Julius Chin Cheong 34140
-% Description: This script is to do a 2D simulation of a basic robotic arm 
+% Description: This script is to do a 2D simulation of a basic robotic arm
+% (does not work, see more from this project in my other github project
+% page Robotic Arm Simulations)
 % Sources: [Brandt, 2908 Multibody Dynamics] , [Nikravesh, Planar Multibody Dynamics]
 % Last Edit: 29.07.25
 % Version: 1.0
@@ -9,8 +11,8 @@
 % Dependencies: A_matrix.m, rev_pin_phi.m, rev_pin_gamma.m, NRfunc.m
 %% Reset and Dependencies
 clear
-addpath('G:\My Drive\HSRW\Semester 4\Multi body Dynamics\MBD_MATLAB\Functions')         % Adds all defined functions to our search path
-addpath('G:\My Drive\HSRW\Semester 4\Multi body Dynamics\MBD_MATLAB\BC_Formulation')    % Adds all scripts to our search path
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Functions')         % Adds all defined functions to our search path
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\BC_Formulation')    % Adds all scripts to our search path
 
 %% Defined Parameters (Model Input / Manual)
 % number of bodies
