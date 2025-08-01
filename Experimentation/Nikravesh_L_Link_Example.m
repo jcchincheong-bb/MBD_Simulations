@@ -3,7 +3,7 @@
 % Description: This script is the solution to examples 3.1, 4.3, etc from
 % Nikravesh, Planar Multibody Dynamics
 % Last Edit: 18.04.25
-
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Functions') 
 
 %% Defined Parameters
 % Body/System Parameters

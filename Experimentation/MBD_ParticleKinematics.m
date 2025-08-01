@@ -1,8 +1,10 @@
 %% Meta
 % Author: Justin Julius Chin Cheong 34140
-% Description: This script is the solution to Exercise 3
-% Brandt, 2908 Multibody Dynamics
+% Description: This script tests the kinematics of two particles and
+% some animation techniques
+% Sources: [Brandt, 2908 Multibody Dynamics]
 % Last Edit: 16.05.25
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Functions') 
 
 %% Defined Parameters
 r = [2.5;1.2]; phi = 5.6723;  % Global body position [m,rad]
