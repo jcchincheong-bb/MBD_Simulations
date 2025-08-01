@@ -7,7 +7,7 @@
 % Dependencies: NRfunc()
 
 %% Dependencies
-addpath('G:\My Drive\HSRW\Semester 4\Multi body Dynamics\MBD_MATLAB\Functions')  % Adds all defined functions to our search path
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Functions')  % Adds all defined functions to our search path
 
 %% Solving Constraint Equations 
 % Setting up time variables

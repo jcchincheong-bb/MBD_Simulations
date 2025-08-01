@@ -19,7 +19,7 @@
 % *ensure 2nd body is where the main translational axis is defined
 
 %% Dependencies
-addpath('G:\My Drive\HSRW\Semester 4\Multi body Dynamics\MBD_MATLAB\Functions')  % Adds all defined functions to our search path
+addpath('G:\My Drive\Projects\MBD_Simulations\MBD_MATLAB\Functions')  % Adds all defined functions to our search path
 
 %% Constraint Equations Formulation
 % Syms equations for the constraints (not generalised as yet, only rev-pin)
