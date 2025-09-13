@@ -1,5 +1,6 @@
 # Planar Multibody Dynamics Simulations
 [Project Page](https://jcchincheong-bb.github.io/projects/mbd-simulations/index/)
+
 A general purpose simulator for the kinematics and dynamics of two dimensional multibody systems. 
 
 Heavily inspired by the work of Javad N. Nikravesh, **Planar Multibody Dynamics**. I started it as part of a course on multibody dynamics in my university Hoschule Rhein-Waal, but I have since continuously improved it. Unlike Nikravhesh, this project uses the MATLAB symbolic toolbox to generalise formulations and also increases the accuracy of calculations at a marginal decrease in speed. 
